@@ -1,0 +1,74 @@
+{"listeIndus": [
+        {
+            "dateDebut": "01\/03\/2013",
+            "dateFin": " ",
+            "typeIndu": "Indu CAF MSA sur  RCB",
+            "titulaire": "ARGOL HUBERT-GERARD",
+            "montantInitial": "1000,00",
+            "montantTrans": "1000,00",
+            "remise": "93,53"
+        },
+        {
+            "dateDebut": "01\/02\/2013",
+            "dateFin": "10\/02\/2013",
+            "typeIndu": "Indu CAF MSA sur  RCB",
+            "titulaire": "ARGOL HUBERT-GERARD",
+            "montantInitial": "1000,00",
+            "montantTrans": "1000,00",
+            "remise": "0,00"
+        },
+        {
+            "dateDebut": "01\/01\/2012",
+            "dateFin": " ",
+            "typeIndu": "Indu CAF MSA sur RSI - RSA socle Majoré",
+            "titulaire": "ARGOL HUBERT-GERARD",
+            "montantInitial": "1300,00",
+            "montantTrans": "1300,00",
+            "remise": "120,00"
+        },
+        {
+            "dateDebut": "01\/01\/2011",
+            "dateFin": " ",
+            "typeIndu": "Indu CAF MSA sur RSD - RSA socle",
+            "titulaire": "ARGOL HUBERT-GERARD",
+            "montantInitial": "6900,00",
+            "montantTrans": "400,00",
+            "remise": "0,00"
+        },
+        {
+            "dateDebut": "01\/10\/2010",
+            "dateFin": "31\/12\/2010",
+            "typeIndu": "Indu CAF MSA sur RSD - RSA socle",
+            "titulaire": "ARGOL HUBERT-GERARD",
+            "montantInitial": "200,00",
+            "montantTrans": "200,00",
+            "remise": "0,00"
+        },
+        {
+            "dateDebut": "01\/01\/2010",
+            "dateFin": "01\/05\/2010",
+            "typeIndu": "Indu CAF MSA sur  RCB",
+            "titulaire": "ARGOL HUBERT-GERARD",
+            "montantInitial": "12000,00",
+            "montantTrans": "1000,00",
+            "remise": "150,00"
+        },
+        {
+            "dateDebut": "01\/01\/2010",
+            "dateFin": " ",
+            "typeIndu": "Indu CAF MSA sur  RCB",
+            "titulaire": "ARGOL MEGANE",
+            "montantInitial": "800,00",
+            "montantTrans": "600,00",
+            "remise": "200,00"
+        },
+        {
+            "dateDebut": "01\/06\/2008",
+            "dateFin": " ",
+            "typeIndu": "Indu CAF MSA sur RSI - RSA socle Majoré",
+            "titulaire": "ARGOL HUBERT-GERARD",
+            "montantInitial": "600,00",
+            "montantTrans": "50,00",
+            "remise": "0,00"
+        }
+    ]}
